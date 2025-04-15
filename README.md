@@ -1,2 +1,2 @@
 # music-streaming-website
-This is new project : music streaming app
+This is a new project : music streaming app
